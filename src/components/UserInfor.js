@@ -30,7 +30,6 @@ class UserInfor extends React.Component {
   };
   handleOnSubmit = (event) => {
     event.preventDefault();
-    console.log(this.state);
   };
   render() {
     return (
